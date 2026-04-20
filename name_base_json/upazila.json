@@ -1,0 +1,4058 @@
+[
+  {
+    "model": "upazila",
+    "pk": 1,
+    "fields": {
+      "name": "Alikadam",
+      "district": "Bandarban"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 2,
+    "fields": {
+      "name": "Bandarban Sadar",
+      "district": "Bandarban"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 3,
+    "fields": {
+      "name": "Lama",
+      "district": "Bandarban"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 4,
+    "fields": {
+      "name": "Naikkhongchhari",
+      "district": "Bandarban"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 5,
+    "fields": {
+      "name": "Rowangchhari",
+      "district": "Bandarban"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 6,
+    "fields": {
+      "name": "Ruma",
+      "district": "Bandarban"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 7,
+    "fields": {
+      "name": "Thanchi",
+      "district": "Bandarban"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 8,
+    "fields": {
+      "name": "Akhaura",
+      "district": "Brahmanbaria"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 9,
+    "fields": {
+      "name": "Ashuganj",
+      "district": "Brahmanbaria"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 10,
+    "fields": {
+      "name": "Banchharampur",
+      "district": "Brahmanbaria"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 11,
+    "fields": {
+      "name": "Bijoynagar",
+      "district": "Brahmanbaria"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 12,
+    "fields": {
+      "name": "Brahmanbaria Sadar",
+      "district": "Brahmanbaria"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 13,
+    "fields": {
+      "name": "Kasba",
+      "district": "Brahmanbaria"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 14,
+    "fields": {
+      "name": "Nabinagar",
+      "district": "Brahmanbaria"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 15,
+    "fields": {
+      "name": "Nasirnagar",
+      "district": "Brahmanbaria"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 16,
+    "fields": {
+      "name": "Sarail",
+      "district": "Brahmanbaria"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 17,
+    "fields": {
+      "name": "Chandpur Sadar",
+      "district": "Chandpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 18,
+    "fields": {
+      "name": "Faridganj",
+      "district": "Chandpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 19,
+    "fields": {
+      "name": "Haimchar",
+      "district": "Chandpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 20,
+    "fields": {
+      "name": "Hajiganj",
+      "district": "Chandpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 21,
+    "fields": {
+      "name": "Kachua",
+      "district": "Chandpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 22,
+    "fields": {
+      "name": "Matlab Dakkhin",
+      "district": "Chandpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 23,
+    "fields": {
+      "name": "Matlab Uttar",
+      "district": "Chandpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 24,
+    "fields": {
+      "name": "Shahrasti",
+      "district": "Chandpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 25,
+    "fields": {
+      "name": "Anwara",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 26,
+    "fields": {
+      "name": "Banshkhali",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 27,
+    "fields": {
+      "name": "Boalkhali",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 28,
+    "fields": {
+      "name": "Chandanaish",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 29,
+    "fields": {
+      "name": "Fatikchhari",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 30,
+    "fields": {
+      "name": "Hathazari",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 31,
+    "fields": {
+      "name": "Karnaphuli",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 32,
+    "fields": {
+      "name": "Lohagara",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 33,
+    "fields": {
+      "name": "Mirsarai",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 34,
+    "fields": {
+      "name": "Patiya",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 35,
+    "fields": {
+      "name": "Rangunia",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 36,
+    "fields": {
+      "name": "Raozan",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 37,
+    "fields": {
+      "name": "Sandwip",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 38,
+    "fields": {
+      "name": "Satkania",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 39,
+    "fields": {
+      "name": "Sitakunda",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 40,
+    "fields": {
+      "name": "Chakaria",
+      "district": "Cox's Bazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 41,
+    "fields": {
+      "name": "Coxs Bazar Sadar",
+      "district": "Cox's Bazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 42,
+    "fields": {
+      "name": "Eidgaon",
+      "district": "Cox's Bazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 43,
+    "fields": {
+      "name": "Kutubdia",
+      "district": "Cox's Bazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 44,
+    "fields": {
+      "name": "Maheshkhali",
+      "district": "Cox's Bazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 45,
+    "fields": {
+      "name": "Pekua",
+      "district": "Cox's Bazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 46,
+    "fields": {
+      "name": "Ramu",
+      "district": "Cox's Bazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 47,
+    "fields": {
+      "name": "Teknaf",
+      "district": "Cox's Bazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 48,
+    "fields": {
+      "name": "Ukhia",
+      "district": "Cox's Bazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 49,
+    "fields": {
+      "name": "Adarsha Sadar",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 50,
+    "fields": {
+      "name": "Barura",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 51,
+    "fields": {
+      "name": "Brahmanpara",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 52,
+    "fields": {
+      "name": "Burichang",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 53,
+    "fields": {
+      "name": "Chandina",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 54,
+    "fields": {
+      "name": "Chauddagram",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 55,
+    "fields": {
+      "name": "Daudkandi",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 56,
+    "fields": {
+      "name": "Debidwar",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 57,
+    "fields": {
+      "name": "Homna",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 58,
+    "fields": {
+      "name": "Laksam",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 59,
+    "fields": {
+      "name": "Lalmai",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 60,
+    "fields": {
+      "name": "Manoharganj",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 61,
+    "fields": {
+      "name": "Meghna",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 62,
+    "fields": {
+      "name": "Muradnagar",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 63,
+    "fields": {
+      "name": "Nangalkot",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 64,
+    "fields": {
+      "name": "Sadar Dakkhin",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 65,
+    "fields": {
+      "name": "Titas",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 66,
+    "fields": {
+      "name": "Chhagalnaiya",
+      "district": "Feni"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 67,
+    "fields": {
+      "name": "Daganbhuiyan",
+      "district": "Feni"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 68,
+    "fields": {
+      "name": "Feni Sadar",
+      "district": "Feni"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 69,
+    "fields": {
+      "name": "Fulgazi",
+      "district": "Feni"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 70,
+    "fields": {
+      "name": "Parashuram",
+      "district": "Feni"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 71,
+    "fields": {
+      "name": "Sonagazi",
+      "district": "Feni"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 72,
+    "fields": {
+      "name": "Dighinala",
+      "district": "Khagrachhari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 73,
+    "fields": {
+      "name": "Guimara",
+      "district": "Khagrachhari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 74,
+    "fields": {
+      "name": "Khagrachhari Sadar",
+      "district": "Khagrachhari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 75,
+    "fields": {
+      "name": "Lakkhichhari",
+      "district": "Khagrachhari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 76,
+    "fields": {
+      "name": "Mahalchhari",
+      "district": "Khagrachhari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 77,
+    "fields": {
+      "name": "Manikchhari",
+      "district": "Khagrachhari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 78,
+    "fields": {
+      "name": "Matiranga",
+      "district": "Khagrachhari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 79,
+    "fields": {
+      "name": "Panchhari",
+      "district": "Khagrachhari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 80,
+    "fields": {
+      "name": "Ramgarh",
+      "district": "Khagrachhari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 81,
+    "fields": {
+      "name": "Kamalnagar",
+      "district": "Lakshmipur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 82,
+    "fields": {
+      "name": "Lakshmipur Sadar",
+      "district": "Lakshmipur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 83,
+    "fields": {
+      "name": "Raipur",
+      "district": "Lakshmipur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 84,
+    "fields": {
+      "name": "Ramganj",
+      "district": "Lakshmipur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 85,
+    "fields": {
+      "name": "Ramgati",
+      "district": "Lakshmipur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 86,
+    "fields": {
+      "name": "Begumganj",
+      "district": "Noakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 87,
+    "fields": {
+      "name": "Chatkhil",
+      "district": "Noakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 88,
+    "fields": {
+      "name": "Companiganj",
+      "district": "Noakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 89,
+    "fields": {
+      "name": "Hatiya",
+      "district": "Noakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 90,
+    "fields": {
+      "name": "Kabirhat",
+      "district": "Noakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 91,
+    "fields": {
+      "name": "Noakhali Sadar",
+      "district": "Noakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 92,
+    "fields": {
+      "name": "Senbag",
+      "district": "Noakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 93,
+    "fields": {
+      "name": "Sonaimuri",
+      "district": "Noakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 94,
+    "fields": {
+      "name": "Subarnachar",
+      "district": "Noakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 95,
+    "fields": {
+      "name": "Baghaichhari",
+      "district": "Rangamati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 96,
+    "fields": {
+      "name": "Barkal",
+      "district": "Rangamati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 97,
+    "fields": {
+      "name": "Belaichhari",
+      "district": "Rangamati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 98,
+    "fields": {
+      "name": "Jurachhari",
+      "district": "Rangamati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 99,
+    "fields": {
+      "name": "Kaptai",
+      "district": "Rangamati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 100,
+    "fields": {
+      "name": "Kawkhali",
+      "district": "Rangamati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 101,
+    "fields": {
+      "name": "Langadu",
+      "district": "Rangamati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 102,
+    "fields": {
+      "name": "Naniarchar",
+      "district": "Rangamati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 103,
+    "fields": {
+      "name": "Rajasthali",
+      "district": "Rangamati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 104,
+    "fields": {
+      "name": "Rangamati Sadar",
+      "district": "Rangamati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 105,
+    "fields": {
+      "name": "Dhamrai",
+      "district": "Dhaka"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 106,
+    "fields": {
+      "name": "Dohar",
+      "district": "Dhaka"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 107,
+    "fields": {
+      "name": "Keraniganj",
+      "district": "Dhaka"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 108,
+    "fields": {
+      "name": "Nawabganj",
+      "district": "Dhaka"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 109,
+    "fields": {
+      "name": "Savar",
+      "district": "Dhaka"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 110,
+    "fields": {
+      "name": "Alfadanga",
+      "district": "Faridpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 111,
+    "fields": {
+      "name": "Bhanga",
+      "district": "Faridpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 112,
+    "fields": {
+      "name": "Boalmari",
+      "district": "Faridpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 113,
+    "fields": {
+      "name": "Char Bhadrasan",
+      "district": "Faridpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 114,
+    "fields": {
+      "name": "Faridpur Sadar",
+      "district": "Faridpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 115,
+    "fields": {
+      "name": "Madhukhali",
+      "district": "Faridpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 116,
+    "fields": {
+      "name": "Nagarkanda",
+      "district": "Faridpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 117,
+    "fields": {
+      "name": "Sadarpur",
+      "district": "Faridpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 118,
+    "fields": {
+      "name": "Saltha",
+      "district": "Faridpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 119,
+    "fields": {
+      "name": "Gazipur Sadar",
+      "district": "Gazipur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 120,
+    "fields": {
+      "name": "Kaliakair",
+      "district": "Gazipur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 121,
+    "fields": {
+      "name": "Kaliganj",
+      "district": "Gazipur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 122,
+    "fields": {
+      "name": "Kapasia",
+      "district": "Gazipur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 123,
+    "fields": {
+      "name": "Sreepur",
+      "district": "Gazipur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 124,
+    "fields": {
+      "name": "Gopalganj Sadar",
+      "district": "Gopalganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 125,
+    "fields": {
+      "name": "Kashiani",
+      "district": "Gopalganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 126,
+    "fields": {
+      "name": "Kotalipara",
+      "district": "Gopalganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 127,
+    "fields": {
+      "name": "Muksudpur",
+      "district": "Gopalganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 128,
+    "fields": {
+      "name": "Tungipara",
+      "district": "Gopalganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 129,
+    "fields": {
+      "name": "Austagram",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 130,
+    "fields": {
+      "name": "Bajitpur",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 131,
+    "fields": {
+      "name": "Bhairab",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 132,
+    "fields": {
+      "name": "Hossainpur",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 133,
+    "fields": {
+      "name": "Itna",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 134,
+    "fields": {
+      "name": "Karimganj",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 135,
+    "fields": {
+      "name": "Katiadi",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 136,
+    "fields": {
+      "name": "Kishoreganj Sadar",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 137,
+    "fields": {
+      "name": "Kuliarchar",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 138,
+    "fields": {
+      "name": "Mithamain",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 139,
+    "fields": {
+      "name": "Nikli",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 140,
+    "fields": {
+      "name": "Pakundia",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 141,
+    "fields": {
+      "name": "Tarail",
+      "district": "Kishoreganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 142,
+    "fields": {
+      "name": "Dasar",
+      "district": "Madaripur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 143,
+    "fields": {
+      "name": "Kalkini",
+      "district": "Madaripur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 144,
+    "fields": {
+      "name": "Madaripur Sadar",
+      "district": "Madaripur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 145,
+    "fields": {
+      "name": "Rajoir",
+      "district": "Madaripur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 146,
+    "fields": {
+      "name": "Shibchar",
+      "district": "Madaripur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 147,
+    "fields": {
+      "name": "Daulatpur",
+      "district": "Manikganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 148,
+    "fields": {
+      "name": "Ghior",
+      "district": "Manikganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 149,
+    "fields": {
+      "name": "Harirampur",
+      "district": "Manikganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 150,
+    "fields": {
+      "name": "Manikganj Sadar",
+      "district": "Manikganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 151,
+    "fields": {
+      "name": "Saturia",
+      "district": "Manikganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 152,
+    "fields": {
+      "name": "Shibalay",
+      "district": "Manikganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 153,
+    "fields": {
+      "name": "Singair",
+      "district": "Manikganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 154,
+    "fields": {
+      "name": "Gazaria",
+      "district": "Munshiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 155,
+    "fields": {
+      "name": "Louhajang",
+      "district": "Munshiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 156,
+    "fields": {
+      "name": "Munshiganj Sadar",
+      "district": "Munshiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 157,
+    "fields": {
+      "name": "Sirajdikhan",
+      "district": "Munshiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 158,
+    "fields": {
+      "name": "Sreenagar",
+      "district": "Munshiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 159,
+    "fields": {
+      "name": "Tongibari",
+      "district": "Munshiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 160,
+    "fields": {
+      "name": "Araihazar",
+      "district": "Narayanganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 161,
+    "fields": {
+      "name": "Bandar",
+      "district": "Narayanganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 162,
+    "fields": {
+      "name": "Narayanganj Sadar",
+      "district": "Narayanganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 163,
+    "fields": {
+      "name": "Rupganj",
+      "district": "Narayanganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 164,
+    "fields": {
+      "name": "Sonargaon",
+      "district": "Narayanganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 165,
+    "fields": {
+      "name": "Belabo",
+      "district": "Narsingdi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 166,
+    "fields": {
+      "name": "Manohardi",
+      "district": "Narsingdi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 167,
+    "fields": {
+      "name": "Narsingdi Sadar",
+      "district": "Narsingdi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 168,
+    "fields": {
+      "name": "Palash",
+      "district": "Narsingdi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 169,
+    "fields": {
+      "name": "Raipura",
+      "district": "Narsingdi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 170,
+    "fields": {
+      "name": "Shibpur",
+      "district": "Narsingdi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 171,
+    "fields": {
+      "name": "Baliakandi",
+      "district": "Rajbari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 172,
+    "fields": {
+      "name": "Goalanda",
+      "district": "Rajbari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 173,
+    "fields": {
+      "name": "Kalukhali",
+      "district": "Rajbari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 174,
+    "fields": {
+      "name": "Pangsha",
+      "district": "Rajbari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 175,
+    "fields": {
+      "name": "Rajbari Sadar",
+      "district": "Rajbari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 176,
+    "fields": {
+      "name": "Bhedarganj",
+      "district": "Shariatpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 177,
+    "fields": {
+      "name": "Damudya",
+      "district": "Shariatpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 178,
+    "fields": {
+      "name": "Gosairhat",
+      "district": "Shariatpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 179,
+    "fields": {
+      "name": "Naria",
+      "district": "Shariatpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 180,
+    "fields": {
+      "name": "Shariatpur Sadar",
+      "district": "Shariatpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 181,
+    "fields": {
+      "name": "Zajira",
+      "district": "Shariatpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 182,
+    "fields": {
+      "name": "Basail",
+      "district": "Tangail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 183,
+    "fields": {
+      "name": "Bhuanpur",
+      "district": "Tangail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 184,
+    "fields": {
+      "name": "Delduar",
+      "district": "Tangail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 185,
+    "fields": {
+      "name": "Dhanbari",
+      "district": "Tangail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 186,
+    "fields": {
+      "name": "Ghatail",
+      "district": "Tangail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 187,
+    "fields": {
+      "name": "Gopalpur",
+      "district": "Tangail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 188,
+    "fields": {
+      "name": "Kalihati",
+      "district": "Tangail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 189,
+    "fields": {
+      "name": "Madhupur",
+      "district": "Tangail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 190,
+    "fields": {
+      "name": "Mirzapur",
+      "district": "Tangail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 191,
+    "fields": {
+      "name": "Nagarpur",
+      "district": "Tangail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 192,
+    "fields": {
+      "name": "Sakhipur",
+      "district": "Tangail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 193,
+    "fields": {
+      "name": "Tangail Sadar",
+      "district": "Tangail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 194,
+    "fields": {
+      "name": "Bagerhat Sadar",
+      "district": "Bagerhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 195,
+    "fields": {
+      "name": "Chitalmari",
+      "district": "Bagerhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 196,
+    "fields": {
+      "name": "Fakirhat",
+      "district": "Bagerhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 197,
+    "fields": {
+      "name": "Kachua",
+      "district": "Bagerhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 198,
+    "fields": {
+      "name": "Mollahat",
+      "district": "Bagerhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 199,
+    "fields": {
+      "name": "Mongla",
+      "district": "Bagerhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 200,
+    "fields": {
+      "name": "Morelganj",
+      "district": "Bagerhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 201,
+    "fields": {
+      "name": "Rampal",
+      "district": "Bagerhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 202,
+    "fields": {
+      "name": "Sharankhola",
+      "district": "Bagerhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 203,
+    "fields": {
+      "name": "Alamdanga",
+      "district": "Chuadanga"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 204,
+    "fields": {
+      "name": "Chuadanga Sadar",
+      "district": "Chuadanga"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 205,
+    "fields": {
+      "name": "Damurhuda",
+      "district": "Chuadanga"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 206,
+    "fields": {
+      "name": "Jibannagar",
+      "district": "Chuadanga"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 207,
+    "fields": {
+      "name": "Abhaynagar",
+      "district": "Jashore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 208,
+    "fields": {
+      "name": "Bagharpara",
+      "district": "Jashore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 209,
+    "fields": {
+      "name": "Chaugachha",
+      "district": "Jashore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 210,
+    "fields": {
+      "name": "Jashore Sadar",
+      "district": "Jashore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 211,
+    "fields": {
+      "name": "Jhikargachha",
+      "district": "Jashore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 212,
+    "fields": {
+      "name": "Keshabpur",
+      "district": "Jashore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 213,
+    "fields": {
+      "name": "Manirampur",
+      "district": "Jashore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 214,
+    "fields": {
+      "name": "Sharsha",
+      "district": "Jashore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 215,
+    "fields": {
+      "name": "Harinakundu",
+      "district": "Jhenaidah"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 216,
+    "fields": {
+      "name": "Jhenaidah Sadar",
+      "district": "Jhenaidah"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 217,
+    "fields": {
+      "name": "Kaliganj",
+      "district": "Jhenaidah"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 218,
+    "fields": {
+      "name": "Kotchandpur",
+      "district": "Jhenaidah"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 219,
+    "fields": {
+      "name": "Maheshpur",
+      "district": "Jhenaidah"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 220,
+    "fields": {
+      "name": "Shailkupa",
+      "district": "Jhenaidah"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 221,
+    "fields": {
+      "name": "Batiaghata",
+      "district": "Khulna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 222,
+    "fields": {
+      "name": "Dacope",
+      "district": "Khulna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 223,
+    "fields": {
+      "name": "Dighalia",
+      "district": "Khulna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 224,
+    "fields": {
+      "name": "Dumuria",
+      "district": "Khulna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 225,
+    "fields": {
+      "name": "Koyra",
+      "district": "Khulna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 226,
+    "fields": {
+      "name": "Paikgachha",
+      "district": "Khulna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 227,
+    "fields": {
+      "name": "Phultala",
+      "district": "Khulna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 228,
+    "fields": {
+      "name": "Rupsa",
+      "district": "Khulna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 229,
+    "fields": {
+      "name": "Terokhada",
+      "district": "Khulna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 230,
+    "fields": {
+      "name": "Bheramara",
+      "district": "Kushtia"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 231,
+    "fields": {
+      "name": "Daulatpur",
+      "district": "Kushtia"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 232,
+    "fields": {
+      "name": "Khoksa",
+      "district": "Kushtia"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 233,
+    "fields": {
+      "name": "Kumarkhali",
+      "district": "Kushtia"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 234,
+    "fields": {
+      "name": "Kushtia Sadar",
+      "district": "Kushtia"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 235,
+    "fields": {
+      "name": "Mirpur",
+      "district": "Kushtia"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 236,
+    "fields": {
+      "name": "Magura Sadar",
+      "district": "Magura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 237,
+    "fields": {
+      "name": "Mohammadpur",
+      "district": "Magura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 238,
+    "fields": {
+      "name": "Shalikha",
+      "district": "Magura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 239,
+    "fields": {
+      "name": "Sreepur",
+      "district": "Magura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 240,
+    "fields": {
+      "name": "Gangni",
+      "district": "Meherpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 241,
+    "fields": {
+      "name": "Meherpur Sadar",
+      "district": "Meherpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 242,
+    "fields": {
+      "name": "Mujibnagar",
+      "district": "Meherpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 243,
+    "fields": {
+      "name": "Kalia",
+      "district": "Narail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 244,
+    "fields": {
+      "name": "Lohagara",
+      "district": "Narail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 245,
+    "fields": {
+      "name": "Narail Sadar",
+      "district": "Narail"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 246,
+    "fields": {
+      "name": "Ashashuni",
+      "district": "Satkhira"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 247,
+    "fields": {
+      "name": "Debhata",
+      "district": "Satkhira"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 248,
+    "fields": {
+      "name": "Kalaroa",
+      "district": "Satkhira"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 249,
+    "fields": {
+      "name": "Kaliganj",
+      "district": "Satkhira"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 250,
+    "fields": {
+      "name": "Satkhira Sadar",
+      "district": "Satkhira"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 251,
+    "fields": {
+      "name": "Shyamnagar",
+      "district": "Satkhira"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 252,
+    "fields": {
+      "name": "Tala",
+      "district": "Satkhira"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 253,
+    "fields": {
+      "name": "Adamdighi",
+      "district": "Bogura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 254,
+    "fields": {
+      "name": "Bogura Sadar",
+      "district": "Bogura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 255,
+    "fields": {
+      "name": "Dhunat",
+      "district": "Bogura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 256,
+    "fields": {
+      "name": "Dupchachia",
+      "district": "Bogura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 257,
+    "fields": {
+      "name": "Gabtali",
+      "district": "Bogura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 258,
+    "fields": {
+      "name": "Kahaloo",
+      "district": "Bogura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 259,
+    "fields": {
+      "name": "Nandigram",
+      "district": "Bogura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 260,
+    "fields": {
+      "name": "Sariakandi",
+      "district": "Bogura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 261,
+    "fields": {
+      "name": "Shajahanpur",
+      "district": "Bogura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 262,
+    "fields": {
+      "name": "Sherpur",
+      "district": "Bogura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 263,
+    "fields": {
+      "name": "Shibganj",
+      "district": "Bogura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 264,
+    "fields": {
+      "name": "Sonatala",
+      "district": "Bogura"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 265,
+    "fields": {
+      "name": "Bholahat",
+      "district": "Chapainababganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 266,
+    "fields": {
+      "name": "Chapainawabganj Sadar",
+      "district": "Chapainababganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 267,
+    "fields": {
+      "name": "Gomastapur",
+      "district": "Chapainababganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 268,
+    "fields": {
+      "name": "Nachole",
+      "district": "Chapainababganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 269,
+    "fields": {
+      "name": "Shibganj",
+      "district": "Chapainababganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 270,
+    "fields": {
+      "name": "Akkelpur",
+      "district": "Joypurhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 271,
+    "fields": {
+      "name": "Joypurhat Sadar",
+      "district": "Joypurhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 272,
+    "fields": {
+      "name": "Kalai",
+      "district": "Joypurhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 273,
+    "fields": {
+      "name": "Khetlal",
+      "district": "Joypurhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 274,
+    "fields": {
+      "name": "Panchbibi",
+      "district": "Joypurhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 275,
+    "fields": {
+      "name": "Atrai",
+      "district": "Naogaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 276,
+    "fields": {
+      "name": "Badalgachhi",
+      "district": "Naogaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 277,
+    "fields": {
+      "name": "Dhamoirhat",
+      "district": "Naogaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 278,
+    "fields": {
+      "name": "Mahadebpur",
+      "district": "Naogaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 279,
+    "fields": {
+      "name": "Manda",
+      "district": "Naogaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 280,
+    "fields": {
+      "name": "Naogaon Sadar",
+      "district": "Naogaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 281,
+    "fields": {
+      "name": "Niamatpur",
+      "district": "Naogaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 282,
+    "fields": {
+      "name": "Patnitala",
+      "district": "Naogaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 283,
+    "fields": {
+      "name": "Porsha",
+      "district": "Naogaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 284,
+    "fields": {
+      "name": "Raninagar",
+      "district": "Naogaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 285,
+    "fields": {
+      "name": "Sapahar",
+      "district": "Naogaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 286,
+    "fields": {
+      "name": "Bagatipara",
+      "district": "Natore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 287,
+    "fields": {
+      "name": "Baraigram",
+      "district": "Natore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 288,
+    "fields": {
+      "name": "Gurudaspur",
+      "district": "Natore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 289,
+    "fields": {
+      "name": "Lalpur",
+      "district": "Natore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 290,
+    "fields": {
+      "name": "Naldanga",
+      "district": "Natore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 291,
+    "fields": {
+      "name": "Natore Sadar",
+      "district": "Natore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 292,
+    "fields": {
+      "name": "Singra",
+      "district": "Natore"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 293,
+    "fields": {
+      "name": "Atgharia",
+      "district": "Pabna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 294,
+    "fields": {
+      "name": "Bera",
+      "district": "Pabna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 295,
+    "fields": {
+      "name": "Bhangura",
+      "district": "Pabna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 296,
+    "fields": {
+      "name": "Chatmohar",
+      "district": "Pabna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 297,
+    "fields": {
+      "name": "Faridpur",
+      "district": "Pabna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 298,
+    "fields": {
+      "name": "Ishwardi",
+      "district": "Pabna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 299,
+    "fields": {
+      "name": "Pabna Sadar",
+      "district": "Pabna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 300,
+    "fields": {
+      "name": "Santhia",
+      "district": "Pabna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 301,
+    "fields": {
+      "name": "Sujanagar",
+      "district": "Pabna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 302,
+    "fields": {
+      "name": "Bagha",
+      "district": "Rajshahi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 303,
+    "fields": {
+      "name": "Bagmara",
+      "district": "Rajshahi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 304,
+    "fields": {
+      "name": "Charghat",
+      "district": "Rajshahi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 305,
+    "fields": {
+      "name": "Durgapur",
+      "district": "Rajshahi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 306,
+    "fields": {
+      "name": "Godagari",
+      "district": "Rajshahi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 307,
+    "fields": {
+      "name": "Mohanpur",
+      "district": "Rajshahi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 308,
+    "fields": {
+      "name": "Paba",
+      "district": "Rajshahi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 309,
+    "fields": {
+      "name": "Puthia",
+      "district": "Rajshahi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 310,
+    "fields": {
+      "name": "Tanore",
+      "district": "Rajshahi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 311,
+    "fields": {
+      "name": "Belkuchi",
+      "district": "Sirajganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 312,
+    "fields": {
+      "name": "Chouhali",
+      "district": "Sirajganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 313,
+    "fields": {
+      "name": "Kamarkhanda",
+      "district": "Sirajganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 314,
+    "fields": {
+      "name": "Kazipur",
+      "district": "Sirajganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 315,
+    "fields": {
+      "name": "Rayganj",
+      "district": "Sirajganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 316,
+    "fields": {
+      "name": "Shahjadpur",
+      "district": "Sirajganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 317,
+    "fields": {
+      "name": "Sirajganj Sadar",
+      "district": "Sirajganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 318,
+    "fields": {
+      "name": "Tarash",
+      "district": "Sirajganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 319,
+    "fields": {
+      "name": "Ullapara",
+      "district": "Sirajganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 320,
+    "fields": {
+      "name": "Amtali",
+      "district": "Barguna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 321,
+    "fields": {
+      "name": "Bamna",
+      "district": "Barguna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 322,
+    "fields": {
+      "name": "Barguna Sadar",
+      "district": "Barguna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 323,
+    "fields": {
+      "name": "Betagi",
+      "district": "Barguna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 324,
+    "fields": {
+      "name": "Patharghata",
+      "district": "Barguna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 325,
+    "fields": {
+      "name": "Taltali",
+      "district": "Barguna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 326,
+    "fields": {
+      "name": "Agailjhara",
+      "district": "Barishal"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 327,
+    "fields": {
+      "name": "Babuganj",
+      "district": "Barishal"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 328,
+    "fields": {
+      "name": "Bakerganj",
+      "district": "Barishal"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 329,
+    "fields": {
+      "name": "Banaripara",
+      "district": "Barishal"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 330,
+    "fields": {
+      "name": "Barishal Sadar (Kotwali)",
+      "district": "Barishal"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 331,
+    "fields": {
+      "name": "Gaurnadi",
+      "district": "Barishal"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 332,
+    "fields": {
+      "name": "Hijla",
+      "district": "Barishal"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 333,
+    "fields": {
+      "name": "Mehendiganj",
+      "district": "Barishal"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 334,
+    "fields": {
+      "name": "Muladi",
+      "district": "Barishal"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 335,
+    "fields": {
+      "name": "Ujirpur",
+      "district": "Barishal"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 336,
+    "fields": {
+      "name": "Bhola Sadar",
+      "district": "Bhola"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 337,
+    "fields": {
+      "name": "Borhanuddin",
+      "district": "Bhola"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 338,
+    "fields": {
+      "name": "Charfasson",
+      "district": "Bhola"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 339,
+    "fields": {
+      "name": "Daulatkhan",
+      "district": "Bhola"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 340,
+    "fields": {
+      "name": "Lalmohan",
+      "district": "Bhola"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 341,
+    "fields": {
+      "name": "Monpura",
+      "district": "Bhola"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 342,
+    "fields": {
+      "name": "Tazumuddin",
+      "district": "Bhola"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 343,
+    "fields": {
+      "name": "Jhalokathi Sadar",
+      "district": "Jhalokati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 344,
+    "fields": {
+      "name": "Kanthalia",
+      "district": "Jhalokati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 345,
+    "fields": {
+      "name": "Nalchhity",
+      "district": "Jhalokati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 346,
+    "fields": {
+      "name": "Rajapur",
+      "district": "Jhalokati"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 347,
+    "fields": {
+      "name": "Bauphal",
+      "district": "Patuakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 348,
+    "fields": {
+      "name": "Dashmina",
+      "district": "Patuakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 349,
+    "fields": {
+      "name": "Dumki",
+      "district": "Patuakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 350,
+    "fields": {
+      "name": "Galachipa",
+      "district": "Patuakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 351,
+    "fields": {
+      "name": "Kalapara",
+      "district": "Patuakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 352,
+    "fields": {
+      "name": "Mirzaganj",
+      "district": "Patuakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 353,
+    "fields": {
+      "name": "Patuakhali Sadar",
+      "district": "Patuakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 354,
+    "fields": {
+      "name": "Rangabali",
+      "district": "Patuakhali"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 355,
+    "fields": {
+      "name": "Bhandaria",
+      "district": "Pirojpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 356,
+    "fields": {
+      "name": "Indurkani",
+      "district": "Pirojpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 357,
+    "fields": {
+      "name": "Kawkhali",
+      "district": "Pirojpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 358,
+    "fields": {
+      "name": "Mathbaria",
+      "district": "Pirojpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 359,
+    "fields": {
+      "name": "Nazirpur",
+      "district": "Pirojpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 360,
+    "fields": {
+      "name": "Nesarabad (Swarupkathi)",
+      "district": "Pirojpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 361,
+    "fields": {
+      "name": "Pirojpur Sadar",
+      "district": "Pirojpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 362,
+    "fields": {
+      "name": "Bakshiganj",
+      "district": "Jamalpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 363,
+    "fields": {
+      "name": "Dewanganj",
+      "district": "Jamalpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 364,
+    "fields": {
+      "name": "Islampur",
+      "district": "Jamalpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 365,
+    "fields": {
+      "name": "Jamalpur Sadar",
+      "district": "Jamalpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 366,
+    "fields": {
+      "name": "Madarganj",
+      "district": "Jamalpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 367,
+    "fields": {
+      "name": "Melandaha",
+      "district": "Jamalpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 368,
+    "fields": {
+      "name": "Sarishabari",
+      "district": "Jamalpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 369,
+    "fields": {
+      "name": "Bhaluka",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 370,
+    "fields": {
+      "name": "Dhobaura",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 371,
+    "fields": {
+      "name": "Fulbaria",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 372,
+    "fields": {
+      "name": "Fulpur",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 373,
+    "fields": {
+      "name": "Gafargaon",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 374,
+    "fields": {
+      "name": "Gouripur",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 375,
+    "fields": {
+      "name": "Haluaghat",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 376,
+    "fields": {
+      "name": "Ishwarganj",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 377,
+    "fields": {
+      "name": "Muktagachha",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 378,
+    "fields": {
+      "name": "Mymensingh Sadar",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 379,
+    "fields": {
+      "name": "Nandail",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 380,
+    "fields": {
+      "name": "Tarakanda",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 381,
+    "fields": {
+      "name": "Trishal",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 382,
+    "fields": {
+      "name": "Atpara",
+      "district": "Netrakona"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 383,
+    "fields": {
+      "name": "Barhatta",
+      "district": "Netrakona"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 384,
+    "fields": {
+      "name": "Durgapur",
+      "district": "Netrakona"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 385,
+    "fields": {
+      "name": "Kalmakanda",
+      "district": "Netrakona"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 386,
+    "fields": {
+      "name": "Kendua",
+      "district": "Netrakona"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 387,
+    "fields": {
+      "name": "Khaliajuri",
+      "district": "Netrakona"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 388,
+    "fields": {
+      "name": "Madan",
+      "district": "Netrakona"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 389,
+    "fields": {
+      "name": "Mohanganj",
+      "district": "Netrakona"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 390,
+    "fields": {
+      "name": "Netrakona Sadar",
+      "district": "Netrakona"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 391,
+    "fields": {
+      "name": "Purbadhala",
+      "district": "Netrakona"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 392,
+    "fields": {
+      "name": "Jhenaigati",
+      "district": "Sherpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 393,
+    "fields": {
+      "name": "Nakla",
+      "district": "Sherpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 394,
+    "fields": {
+      "name": "Nalitabari",
+      "district": "Sherpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 395,
+    "fields": {
+      "name": "Sherpur Sadar",
+      "district": "Sherpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 396,
+    "fields": {
+      "name": "Sreebardi",
+      "district": "Sherpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 397,
+    "fields": {
+      "name": "Birampur",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 398,
+    "fields": {
+      "name": "Birganj",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 399,
+    "fields": {
+      "name": "Birol",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 400,
+    "fields": {
+      "name": "Bochaganj",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 401,
+    "fields": {
+      "name": "Chirirbandar",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 402,
+    "fields": {
+      "name": "Dinajpur Sadar",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 403,
+    "fields": {
+      "name": "Fulbari",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 404,
+    "fields": {
+      "name": "Ghoraghat",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 405,
+    "fields": {
+      "name": "Hakimpur",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 406,
+    "fields": {
+      "name": "Kaharole",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 407,
+    "fields": {
+      "name": "Khansama",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 408,
+    "fields": {
+      "name": "Nababganj",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 409,
+    "fields": {
+      "name": "Parbatipur",
+      "district": "Dinajpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 410,
+    "fields": {
+      "name": "Fulchhari",
+      "district": "Gaibandha"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 411,
+    "fields": {
+      "name": "Gaibandha Sadar",
+      "district": "Gaibandha"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 412,
+    "fields": {
+      "name": "Gobindaganj",
+      "district": "Gaibandha"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 413,
+    "fields": {
+      "name": "Palashbari",
+      "district": "Gaibandha"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 414,
+    "fields": {
+      "name": "Sadullapur",
+      "district": "Gaibandha"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 415,
+    "fields": {
+      "name": "Saghata",
+      "district": "Gaibandha"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 416,
+    "fields": {
+      "name": "Sundarganj",
+      "district": "Gaibandha"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 417,
+    "fields": {
+      "name": "Bhurungamari",
+      "district": "Kurigram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 418,
+    "fields": {
+      "name": "Chilmari",
+      "district": "Kurigram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 419,
+    "fields": {
+      "name": "Kurigram Sadar",
+      "district": "Kurigram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 420,
+    "fields": {
+      "name": "Nageshwari",
+      "district": "Kurigram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 421,
+    "fields": {
+      "name": "Phulbari",
+      "district": "Kurigram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 422,
+    "fields": {
+      "name": "Rajarhat",
+      "district": "Kurigram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 423,
+    "fields": {
+      "name": "Rajibpur",
+      "district": "Kurigram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 424,
+    "fields": {
+      "name": "Roumari",
+      "district": "Kurigram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 425,
+    "fields": {
+      "name": "Ulipur",
+      "district": "Kurigram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 426,
+    "fields": {
+      "name": "Aditmari",
+      "district": "Lalmonirhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 427,
+    "fields": {
+      "name": "Hatibandha",
+      "district": "Lalmonirhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 428,
+    "fields": {
+      "name": "Kaliganj",
+      "district": "Lalmonirhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 429,
+    "fields": {
+      "name": "Lalmonirhat Sadar",
+      "district": "Lalmonirhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 430,
+    "fields": {
+      "name": "Patgram",
+      "district": "Lalmonirhat"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 431,
+    "fields": {
+      "name": "Dimla",
+      "district": "Nilphamari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 432,
+    "fields": {
+      "name": "Domar",
+      "district": "Nilphamari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 433,
+    "fields": {
+      "name": "Jaldhaka",
+      "district": "Nilphamari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 434,
+    "fields": {
+      "name": "Kishoreganj",
+      "district": "Nilphamari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 435,
+    "fields": {
+      "name": "Nilphamari Sadar",
+      "district": "Nilphamari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 436,
+    "fields": {
+      "name": "Saidpur",
+      "district": "Nilphamari"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 437,
+    "fields": {
+      "name": "Atowari",
+      "district": "Panchagarh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 438,
+    "fields": {
+      "name": "Boda",
+      "district": "Panchagarh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 439,
+    "fields": {
+      "name": "Debiganj",
+      "district": "Panchagarh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 440,
+    "fields": {
+      "name": "Panchagarh Sadar",
+      "district": "Panchagarh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 441,
+    "fields": {
+      "name": "Tentulia",
+      "district": "Panchagarh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 442,
+    "fields": {
+      "name": "Badarganj",
+      "district": "Rangpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 443,
+    "fields": {
+      "name": "Gangachara",
+      "district": "Rangpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 444,
+    "fields": {
+      "name": "Kaunia",
+      "district": "Rangpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 445,
+    "fields": {
+      "name": "Mithapukur",
+      "district": "Rangpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 446,
+    "fields": {
+      "name": "Pirgachha",
+      "district": "Rangpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 447,
+    "fields": {
+      "name": "Pirganj",
+      "district": "Rangpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 448,
+    "fields": {
+      "name": "Rangpur Sadar",
+      "district": "Rangpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 449,
+    "fields": {
+      "name": "Taraganj",
+      "district": "Rangpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 450,
+    "fields": {
+      "name": "Baliadangi",
+      "district": "Thakurgaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 451,
+    "fields": {
+      "name": "Haripur",
+      "district": "Thakurgaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 452,
+    "fields": {
+      "name": "Pirganj",
+      "district": "Thakurgaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 453,
+    "fields": {
+      "name": "Ranishankail",
+      "district": "Thakurgaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 454,
+    "fields": {
+      "name": "Thakurgaon Sadar",
+      "district": "Thakurgaon"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 455,
+    "fields": {
+      "name": "Ajmiriganj",
+      "district": "Habiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 456,
+    "fields": {
+      "name": "Bahubal",
+      "district": "Habiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 457,
+    "fields": {
+      "name": "Baniachong",
+      "district": "Habiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 458,
+    "fields": {
+      "name": "Chunarughat",
+      "district": "Habiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 459,
+    "fields": {
+      "name": "Habiganj Sadar",
+      "district": "Habiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 460,
+    "fields": {
+      "name": "Lakhai",
+      "district": "Habiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 461,
+    "fields": {
+      "name": "Madhabpur",
+      "district": "Habiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 462,
+    "fields": {
+      "name": "Nabiganj",
+      "district": "Habiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 463,
+    "fields": {
+      "name": "Shayestaganj",
+      "district": "Habiganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 464,
+    "fields": {
+      "name": "Baralekha",
+      "district": "Moulvibazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 465,
+    "fields": {
+      "name": "Juri",
+      "district": "Moulvibazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 466,
+    "fields": {
+      "name": "Kamalganj",
+      "district": "Moulvibazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 467,
+    "fields": {
+      "name": "Kulaura",
+      "district": "Moulvibazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 468,
+    "fields": {
+      "name": "Moulvibazar Sadar",
+      "district": "Moulvibazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 469,
+    "fields": {
+      "name": "Rajnagar",
+      "district": "Moulvibazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 470,
+    "fields": {
+      "name": "Sreemangal",
+      "district": "Moulvibazar"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 471,
+    "fields": {
+      "name": "Bishwambharpur",
+      "district": "Sunamganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 472,
+    "fields": {
+      "name": "Chhatak",
+      "district": "Sunamganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 473,
+    "fields": {
+      "name": "Derai",
+      "district": "Sunamganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 474,
+    "fields": {
+      "name": "Dharmapasha",
+      "district": "Sunamganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 475,
+    "fields": {
+      "name": "Dowarabazar",
+      "district": "Sunamganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 476,
+    "fields": {
+      "name": "Jagannathpur",
+      "district": "Sunamganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 477,
+    "fields": {
+      "name": "Jamalganj",
+      "district": "Sunamganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 478,
+    "fields": {
+      "name": "Madhyanagar",
+      "district": "Sunamganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 479,
+    "fields": {
+      "name": "Shalla",
+      "district": "Sunamganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 480,
+    "fields": {
+      "name": "Shantiganj",
+      "district": "Sunamganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 481,
+    "fields": {
+      "name": "Sunamganj Sadar",
+      "district": "Sunamganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 482,
+    "fields": {
+      "name": "Tahirpur",
+      "district": "Sunamganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 483,
+    "fields": {
+      "name": "Balaganj",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 484,
+    "fields": {
+      "name": "Beanibazar",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 485,
+    "fields": {
+      "name": "Bishwanath",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 486,
+    "fields": {
+      "name": "Companiganj",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 487,
+    "fields": {
+      "name": "Dakkhin Surma",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 488,
+    "fields": {
+      "name": "Fenchuganj",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 489,
+    "fields": {
+      "name": "Golapganj",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 490,
+    "fields": {
+      "name": "Gowainghat",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 491,
+    "fields": {
+      "name": "Jaintapur",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 492,
+    "fields": {
+      "name": "Kanaighat",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 493,
+    "fields": {
+      "name": "Osmaninagar",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 494,
+    "fields": {
+      "name": "Sylhet Sadar",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 495,
+    "fields": {
+      "name": "Zakiganj",
+      "district": "Sylhet"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 496,
+    "fields": {
+      "name": "Chattogram City Corporation",
+      "district": "Chattogram"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 497,
+    "fields": {
+      "name": "Cumilla City Corporation",
+      "district": "Cumilla"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 498,
+    "fields": {
+      "name": "Dhaka North City Corporation",
+      "district": "Dhaka"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 499,
+    "fields": {
+      "name": "Dhaka South City Corporation",
+      "district": "Dhaka"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 500,
+    "fields": {
+      "name": "Gazipur City Corporation",
+      "district": "Gazipur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 501,
+    "fields": {
+      "name": "Narayanganj City Corporation",
+      "district": "Narayanganj"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 502,
+    "fields": {
+      "name": "Khulna City Corporation",
+      "district": "Khulna"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 503,
+    "fields": {
+      "name": "Rajshahi City Corporation",
+      "district": "Rajshahi"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 504,
+    "fields": {
+      "name": "Barishal City Corporation",
+      "district": "Barishal"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 505,
+    "fields": {
+      "name": "Mymensingh City Corporation",
+      "district": "Mymensingh"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 506,
+    "fields": {
+      "name": "Rangpur City Corporation",
+      "district": "Rangpur"
+    }
+  },
+  {
+    "model": "upazila",
+    "pk": 507,
+    "fields": {
+      "name": "Sylhet City Corporation",
+      "district": "Sylhet"
+    }
+  }
+]
