@@ -1,52 +1,65 @@
-## Bangladesh Administrative Boundary Data
+# Bangladesh Geospatial Administrative Data
 
-This repository contains processed administrative boundary data for Bangladesh, organized by Division, District, Upazila, and Union levels.
+**Version:** 1.0.0  
+**Status:** Stable  
 
-## Overview
+---
 
-The source boundary data was obtained from authoritative GeoJSON datasets and transformed into compact JSON outputs suitable for downstream use in applications and data analysis.
+## 📌 Introduction
+This repository hosts a comprehensive collection of administrative boundary data for **Bangladesh**. It provides processed JSON outputs for four distinct administrative levels: **Division, District, Upazila, and Union**. The data is derived from authoritative humanitarian sources and optimized for software development and GIS analysis.
 
-## Data Sources
+---
 
-1. Division, District, Upazila
-   - Source: [Humanitarian Data Exchange (HDX)](https://data.humdata.org/dataset/cod-ab-bgd)
-   - Original file: `bgd_admin_boundaries.geojson.zip`
-   - Extracted GeoJSON files:
-     - `bgd_admin1.geojson` — Division boundaries
-     - `bgd_admin2.geojson` — District boundaries
-     - `bgd_admin3.geojson` — Upazila boundaries
+## 🏛️ Data Sources
+We ensure data integrity by sourcing our raw files from recognized global repositories:
 
-2. Union
-   - Source: [geoBoundaries](https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-bangladesh)
-   - Original file: `geoBoundaries-BGD-ADM4.geojson`
+* **Levels 1-3 (Division, District, Upazila):**
+    * **Provider:** [Humanitarian Data Exchange (HDX)](https://data.humdata.org/dataset/cod-ab-bgd)
+    * **Reference:** COD-AB - Bangladesh
+* **Level 4 (Union):**
+    * **Provider:** [geoBoundaries](https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-bangladesh)
+    * **Reference:** ADM4 Boundaries
 
-## Processing
+---
 
-Python scripts were used to:
+## 📦 Data Formats
+The repository offers two distinct data structures to cater to different use cases:
 
-- parse GeoJSON boundary files
-- normalize administrative names and identifiers
-- generate optimized JSON files for each administrative level
+1.  **ID-Based (`id_base_json/`):** Structures data using unique administrative identifiers. Ideal for relational database mapping and backend logic.
+2.  **Name-Based (`name_base_json/`):** Structures data using standard English names. Ideal for frontend search features and user-facing applications.
 
-The processed outputs are stored in the following directories:
+---
 
-- `id_base_json/` — structured JSON keyed by administrative identifiers
-- `name_base_json/` — structured JSON keyed by administrative names
+## 🔨 Processing Methodology
+The transformation from raw GeoJSON to optimized JSON is handled via **Python automation**:
 
-## Technology Stack
+* **Parsing:** Systematic reading of GeoJSON coordinate arrays.
+* **Normalization:** Standardization of administrative naming conventions (removing special characters, fixing casing).
+* **Optimization:** Reduction of file size for improved API latency and browser performance.
 
-- Python
-- GeoJSON
-- JSON
+---
 
-## Files Included
+## 📂 Project Inventory
 
-- `bgd_admin1.geojson`
-- `bgd_admin2.geojson`
-- `bgd_admin3.geojson`
-- `geoBoundaries-BGD-ADM4_simplified.geojson`
-- `id_base_script.py`
-- `name_base_script.py`
-- `readme.md`
-- `id_base_json/`
-- `name_base_json/`
+| Category | Item | Description |
+| :--- | :--- | :--- |
+| **Source Data** | `bgd_admin1.geojson` | Division Level Geometry |
+| | `bgd_admin2.geojson` | District Level Geometry |
+| | `bgd_admin3.geojson` | Upazila Level Geometry |
+| | `geoBoundaries-BGD-ADM4.geojson` | Union Level Geometry |
+| **Scripts** | `id_base_script.py` | Generates ID-indexed JSON |
+| | `name_base_script.py` | Generates Name-indexed JSON |
+| **Output** | `id_base_json/` | Directory containing ID outputs |
+| | `name_base_json/` | Directory containing Name outputs |
+
+---
+
+## 🛠️ Tech Stack
+* **Core:** Python 
+* **Data Interchange:** GeoJSON, JSON
+* **Domain:** Geospatial Analysis (GIS)
+
+---
+
+## 📄 License
+Please refer to the original licenses of [HDX](https://data.humdata.org/faqs/licenses) and [geoBoundaries](https://www.geoboundaries.org/index.html#usage) for usage restrictions.
