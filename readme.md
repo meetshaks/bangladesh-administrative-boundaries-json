@@ -10,6 +10,16 @@ This repository hosts a comprehensive collection of administrative boundary data
 
 ---
 
+## 📊 Data Statistics
+The dataset includes the following administrative units for Bangladesh:
+
+* **Divisions:** 8
+* **Districts:** 64
+* **Upazilas:** 507
+* **Unions / Paurashavas:** 5,160
+
+---
+
 ## 🏛️ Data Sources
 We ensure data integrity by sourcing our raw files from recognized global repositories:
 
